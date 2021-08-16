@@ -18,6 +18,7 @@ public class FireScript : MonoBehaviour
         if (rb)
         {
             rb.AddForce(0, 15.0F, 15.0F, ForceMode.Impulse);
+            Debug.Log("hola");
         }
     }
 }
