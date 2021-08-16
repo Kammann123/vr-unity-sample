@@ -17,7 +17,7 @@ public class FireScript : MonoBehaviour
         // Apply a force to the rigidbody
         if (rb)
         {
-            rb.AddForce(0, 10.0F, 10.0F, ForceMode.Impulse);
+            rb.AddForce(0, 15.0F, 15.0F, ForceMode.Impulse);
         }
     }
 }
