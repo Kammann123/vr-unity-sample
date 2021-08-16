@@ -1,2 +1,2 @@
 # vr-unity-sample
-Virtual reality project sample using Unity environment
+Virtual reality sample project using Unity environment
